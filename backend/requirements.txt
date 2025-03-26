@@ -1,0 +1,9 @@
+django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.0
+django-filter==23.3
+pillow==10.1.0
+djoser==2.2.0
+python-magic==0.4.27
+qrcode==7.4.2
+python-dateutil==2.8.2
